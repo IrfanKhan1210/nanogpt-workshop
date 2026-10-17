@@ -1,0 +1,5 @@
+# Workshop dependencies: only NumPy and PyTorch, CPU only.
+# macOS / Windows: this file (PyPI's torch wheel is the CPU build there).
+# Linux: use requirements-linux-cpu.txt instead, so pip does not download CUDA packages.
+numpy==2.2.6
+torch==2.7.1
