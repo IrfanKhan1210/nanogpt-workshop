@@ -45,7 +45,7 @@ input.txt ──step 1──> numbers ──step 2──> random GPT ──step 
 
 ## Setup
 
-Requires Python 3.13. Run every command from inside this folder.
+Requires Python 3.14. Run every command from inside this folder.
 
 ```sh
 cd nanogpt-workshop

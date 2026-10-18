@@ -1,4 +1,4 @@
 # Linux, CPU only: NumPy from PyPI, PyTorch's CPU wheel from the PyTorch index (no CUDA packages).
 --extra-index-url https://download.pytorch.org/whl/cpu
-numpy==2.2.6
-torch==2.7.1+cpu
+numpy>=2.5.0
+torch>=2.10.0+cpu
